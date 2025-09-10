@@ -1,0 +1,5 @@
+*.pickle
+login.txt
+.ipynb_checkpoints/
+__pycache__/
+*.xlsx
